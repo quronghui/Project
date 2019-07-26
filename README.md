@@ -1,11 +1,9 @@
 # 附件
 
-## 研究生作品
+## 2019M'sD Project
 
-1. 航空生理参数检测仪
+1. [2019.07 航空生理参数检测系统的研究](https://luckywater.top/2019/07/24/PhysiologicalParameterDetection/)
 
-   + [具体内容请参考]()
-   
 2. **Wearable Affective Robot** 
 
    + [具体论文内容可以参考连接](https://ieeexplore.ieee.org/document/8506341)
@@ -32,7 +30,7 @@
 
      ![口气检测](D:\2018_hust_files\Resume\photo\口气检测.PNG)
 
-## M'sDPPT
+## 2019M'sD PPT
 
 + 这是研究生的一些PPT
 
@@ -55,13 +53,9 @@
 
 
 
-## BachelorWorks 
+## 2018Bachelor Project 
 
-+ 这是本科的参赛作品
-
-1. 2016.5月 robocup技术报告
-2. 2016.9月 国赛数学建模《小区开放对道路通行的影响》
-3. 2017.1月 美赛MCM数学建模 《Take what rescue you, our Kariba》 
-4. 2017.8月 国赛电子设计竞赛 《板球控制系统》 
-
-## 
+1. [2016.01中国工程机器人大赛暨国际公开赛《竞步机器人(窄足)》](https://luckywater.top/2019/07/26/RobotControl/)
+2. 2016.09国赛数学建模《小区开放对道路通行的影响》
+3. 2017.01美赛MCM数学建模 《Take what rescue you, our Kariba》 
+4. [2017.08国赛电子设计竞赛 《板球控制系统》 ](https://luckywater.top/2019/07/26/RobotControl/)
