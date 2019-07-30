@@ -13,7 +13,7 @@
 1. [2016.01中国工程机器人大赛暨国际公开赛《竞步机器人(窄足)》](https://luckywater.top/2019/07/26/RobotControl/)
 2. 2016.09国赛数学建模《小区开放对道路通行的影响》
 3. 2017.01美赛MCM数学建模 《Take what rescue you, our Kariba》 
-4. [2017.08国赛电子设计竞赛 《板球控制系统》 ](https://luckywater.top/2019/07/26/RobotControl/)
+4. [2017.08国赛电子设计竞赛 《板球控制系统》](https://luckywater.top/2019/07/26/RobotControl/)
 
 
 
@@ -23,18 +23,18 @@
 
 ### EPIC Lab PPT
 
-1. [20180905AIWAC宝宝机器人.pptx](/document/ppt/20180905AIWAC宝宝机器人.pptx)
-2. [20180905武大EEG硬件PPT.pptx](/document/ppt/20180905武大EEG硬件PPT.pptx)
-3. [20181211CBIB口气检测仪.pptx](/document/ppt/20181211CBIB口气检测仪.pptx)
-4. [20181211EEG项目汇报.pptx]({/document/ppt/20181211EEG项目汇报.pptx)
-5. [20181211Minchen.pptx](/document/ppt/20181211Minchen.pptx)
-6. [20181216EEG项目汇报.pptx](/document/ppt/20181216EEG项目汇报.pptx)
+1. [20180905AIWAC宝宝机器人.pptx]
+2. [20180905武大EEG硬件PPT.pptx]
+3. [20181211CBIB口气检测仪.pptx]
+4. [20181211EEG项目汇报.pptx]
+5. [20181211Minchen.pptx]
+6. [20181216EEG项目汇报.pptx]
 
 ### CBIB Lab PPT
 
-1. [20181228CBIB电影龙猫.pptx](/document/ppt/20181228CBIB电影龙猫.pptx)
-2. [20181228CBIB开发社区.pptx](/document/ppt/20181228CBIB开发社区.pptx)
-3. [20190104长跑.pptx](/document/ppt/20190104长跑.pptx)
-4. [20190111Computer.pptx](/document/ppt/20190111Computer.pptx)
-5. [20190119 Computer Programe.pptx](/document/ppt/20190119 Computer Programe.pptx)
+1. [20181228CBIB电影龙猫.pptx]
+2. [20181228CBIB开发社区.pptx]
+3. [20190104长跑.pptx]
+4. [20190111Computer.pptx]
+5. [20190119 Computer Programe.pptx]
 
