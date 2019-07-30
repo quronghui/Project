@@ -2,7 +2,7 @@
 
 ## 2019M'sD Project
 
-1. [2019.07 航空生理参数检测系统的研究](https://luckywater.top/2019/07/24/PhysiologicalParameterDetection/)
+1. [2019.07 航空生理参数检测系统](https://luckywater.top/2019/07/24/PhysiologicalParameterDetection/)
 
 2. [2018.10 Wearable Affective Robot(IEEE)](https://luckywater.top/2019/07/29/WearableAffectiveRobot)
 
