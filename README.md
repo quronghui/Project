@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # [附件](https://github.com/quronghui/Project)
 
+=======
+# [附件](https://github.com/quronghui/Project.git)
+>>>>>>> 0955af3f007ea25a2ac1886b50d0bcae81b0b669
 ## 2019M'sD Project
 
 1. [2019.07 航空生理参数检测系统](https://luckywater.top/2019/07/24/PhysiologicalParameterDetection/)
