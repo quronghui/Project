@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # [附件Link](https://github.com/quronghui/Project.git)
+=======
+<<<<<<< HEAD
+# [附件](https://github.com/quronghui/Project.git)
+>>>>>>> refs/remotes/origin/master
 ## 2019M'sD Project
 
 1. [2019.07 航空生理参数检测系统](https://luckywater.top/2019/07/24/PhysiologicalParameterDetection/)
@@ -13,6 +18,7 @@
 2. 2016.09国赛数学建模《小区开放对道路通行的影响》
 3. 2017.01美赛MCM数学建模 《Take what rescue you, our Kariba》 
 4. [2017.08国赛电子设计竞赛 《板球控制系统》](https://luckywater.top/2019/07/26/RobotControl/)
+5. [语音情感]
 
 
 
