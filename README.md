@@ -9,7 +9,7 @@
 ## 2018Bachelor Project 
 
 1. [2016.01中国工程机器人大赛暨国际公开赛《竞步机器人(窄足)》](https://luckywater.top/2019/07/26/RobotControl/)
-2. 2016.09国赛数学建模《小区开放对道路通行的影响》
+2. [2016.09国赛数学建模《小区开放对道路通行的影响》](https://github.com/quronghui/Project/blob/master/BachelorWorks/2016年数学建模介绍.md)
 3. 2017.01美赛MCM数学建模 《Take what rescue you, our Kariba》 
 4. [2017.08国赛电子设计竞赛 《板球控制系统》](https://luckywater.top/2019/07/26/RobotControl/)
 
