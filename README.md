@@ -1,7 +1,7 @@
 # [附件](https://github.com/quronghui/Project.git)
 ## 2019M'sD Project
 
-1. [2019.08 基于人体呼出气体的疾病检测系统](https://github.com/quronghui/Project/blob/master/M'sDPPT/2020.01.06_用于疾病筛查的人体呼出气体检测仪设计及其数据分析_瞿荣辉.pptx)
+1. [2019.08 基于人体呼出气体的疾病检测系统](https://github.com/quronghui/Project/blob/master/MasterDPPT/2020.01.06ElectronicNoseSystem.pptx)
 2. [2019.07 航空生理参数检测系统](https://luckywater.top/2019/07/24/PhysiologicalParameterDetection/)
 3. [2018.10 Wearable Affective Robot(IEEE)](https://luckywater.top/2019/07/29/WearableAffectiveRobot)
 4. [2018.10 口气检测仪](https://luckywater.top/2019/02/17/ArduinoMQ135/)
