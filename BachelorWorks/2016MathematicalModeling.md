@@ -1,5 +1,7 @@
 ## 数学建模介绍
 
++ [参赛论文]https://github.com/quronghui/Project/blob/master/BachelorWorks/2016年国赛论文201622002053 _谭威_李固良_瞿荣辉.pdf)
+
 ### 题目概要
 
 1. 针对国务院推广**街区制**的决定，除安保问题外最受争议的**两个观点**分别是：
