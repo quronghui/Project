@@ -12,6 +12,7 @@
 2. [2016.09国赛数学建模《小区开放对道路通行的影响》](https://github.com/quronghui/Project/blob/master/BachelorWorks/2016年数学建模介绍.md)
 3. [2017.01美赛MCM数学建模](https://github.com/quronghui/Project/blob/master/BachelorWorks/2017.01TakeWhatRescueYouOurKariba.pdf)
 4. [2017.08国赛电子设计竞赛 《板球控制系统》](https://luckywater.top/2019/07/26/RobotControl/)
+5. [2018.06毕业论文《基于神经网络的语音情感识别算法的研究与实现》](https://github.com/quronghui/Project/blob/master/BachelorWorks/2018.06基于神经网络的语音情感识别算法的研究与实现.pdf)
 
 ## 2019M'sD PPT
 
